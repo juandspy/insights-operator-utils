@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/RedHatInsights/cloudwatch v0.0.0-20210111105023-1df2bdfe3291
+	github.com/RedHatInsights/insights-operator-utils v1.23.5
 	github.com/RedHatInsights/insights-results-aggregator-data v1.3.3
 	github.com/RedHatInsights/insights-results-types v1.3.5
 	github.com/Shopify/sarama v1.27.1
