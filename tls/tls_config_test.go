@@ -19,7 +19,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	tlsutil "github.com/RedHatInsights/insights-operator-utils/tls"
+	tlsutil "github.com/juandspy/insights-operator-utils/tls"
 )
 
 // TestNewTLSConfig tests the NewTLSConfig method

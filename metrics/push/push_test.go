@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RedHatInsights/insights-operator-utils/metrics/push"
+	"github.com/juandspy/insights-operator-utils/metrics/push"
 	"github.com/rs/zerolog/log"
 	"github.com/stretchr/testify/assert"
 )

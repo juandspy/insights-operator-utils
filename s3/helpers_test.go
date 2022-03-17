@@ -14,7 +14,7 @@
 
 package s3util_test
 
-import s3mocks "github.com/RedHatInsights/insights-operator-utils/s3/mocks"
+import s3mocks "github.com/juandspy/insights-operator-utils/s3/mocks"
 
 var (
 	testBucket             = "my_bucket"

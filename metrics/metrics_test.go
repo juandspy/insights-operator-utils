@@ -24,15 +24,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RedHatInsights/insights-operator-utils/tests/helpers"
+	"github.com/juandspy/insights-operator-utils/tests/helpers"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/testutil"
 	prommodels "github.com/prometheus/client_model/go"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 
-	httputils "github.com/RedHatInsights/insights-operator-utils/http"
-	"github.com/RedHatInsights/insights-operator-utils/metrics"
+	httputils "github.com/juandspy/insights-operator-utils/http"
+	"github.com/juandspy/insights-operator-utils/metrics"
 )
 
 const (

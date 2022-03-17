@@ -34,10 +34,10 @@ import (
 	"github.com/verdverm/frisby"
 	"gopkg.in/h2non/gock.v1"
 
-	httputils "github.com/RedHatInsights/insights-operator-utils/http"
-	"github.com/RedHatInsights/insights-operator-utils/responses"
-	"github.com/RedHatInsights/insights-operator-utils/tests/helpers"
-	"github.com/RedHatInsights/insights-operator-utils/tests/mock_io"
+	httputils "github.com/juandspy/insights-operator-utils/http"
+	"github.com/juandspy/insights-operator-utils/responses"
+	"github.com/juandspy/insights-operator-utils/tests/helpers"
+	"github.com/juandspy/insights-operator-utils/tests/mock_io"
 )
 
 const (

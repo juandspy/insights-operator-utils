@@ -23,8 +23,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	s3util "github.com/RedHatInsights/insights-operator-utils/s3"
-	s3mocks "github.com/RedHatInsights/insights-operator-utils/s3/mocks"
+	s3util "github.com/juandspy/insights-operator-utils/s3"
+	s3mocks "github.com/juandspy/insights-operator-utils/s3/mocks"
 )
 
 func TestDownloadObject(t *testing.T) {

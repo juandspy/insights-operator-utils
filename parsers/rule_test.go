@@ -23,7 +23,7 @@ import (
 	types "github.com/RedHatInsights/insights-results-types"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/RedHatInsights/insights-operator-utils/parsers"
+	"github.com/juandspy/insights-operator-utils/parsers"
 )
 
 // TestParseRuleSelector checks the function parsers.ParseRuleSelector for

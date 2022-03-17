@@ -22,7 +22,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	httputils "github.com/RedHatInsights/insights-operator-utils/http"
+	httputils "github.com/juandspy/insights-operator-utils/http"
 )
 
 var baseEndpoint = "organizations/{org_id}/clusters/{cluster}/users/{user_id}/report"

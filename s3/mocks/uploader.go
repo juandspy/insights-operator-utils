@@ -20,7 +20,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/service/s3"
 
-	s3util "github.com/RedHatInsights/insights-operator-utils/s3"
+	s3util "github.com/juandspy/insights-operator-utils/s3"
 )
 
 // PutObject returns an empty PutObjectOutput and the mock client Err field, if not nil.

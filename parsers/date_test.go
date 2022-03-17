@@ -23,7 +23,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/RedHatInsights/insights-operator-utils/parsers"
+	"github.com/juandspy/insights-operator-utils/parsers"
 )
 
 // TestParseDates checks the function parsers.ParseDates for valid input.

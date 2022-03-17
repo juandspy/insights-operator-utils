@@ -25,7 +25,7 @@ import (
 	"github.com/getkin/kin-openapi/openapi3"
 	"github.com/rs/zerolog/log"
 
-	"github.com/RedHatInsights/insights-operator-utils/types"
+	"github.com/juandspy/insights-operator-utils/types"
 )
 
 // FilterOutDebugMethods returns the same openapi spec, but without endpoints tagged as debug.

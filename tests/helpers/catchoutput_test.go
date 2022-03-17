@@ -22,7 +22,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/RedHatInsights/insights-operator-utils/tests/helpers"
+	"github.com/juandspy/insights-operator-utils/tests/helpers"
 	"github.com/stretchr/testify/assert"
 )
 

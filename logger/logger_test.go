@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RedHatInsights/insights-operator-utils/logger"
-	"github.com/RedHatInsights/insights-operator-utils/tests/helpers"
 	"github.com/Shopify/sarama"
+	"github.com/juandspy/insights-operator-utils/logger"
+	"github.com/juandspy/insights-operator-utils/tests/helpers"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 	"github.com/stretchr/testify/assert"

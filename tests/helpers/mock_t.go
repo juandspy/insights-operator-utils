@@ -22,7 +22,7 @@ import (
 
 	"github.com/golang/mock/gomock"
 
-	"github.com/RedHatInsights/insights-operator-utils/tests/mock_testing"
+	"github.com/juandspy/insights-operator-utils/tests/mock_testing"
 )
 
 // MockT wraps testing.T to be able to test functions accepting testing.TB.

@@ -17,10 +17,10 @@ package s3util_test
 import (
 	"testing"
 
-	s3util "github.com/RedHatInsights/insights-operator-utils/s3"
-	s3mocks "github.com/RedHatInsights/insights-operator-utils/s3/mocks"
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"github.com/aws/aws-sdk-go/service/s3"
+	s3util "github.com/juandspy/insights-operator-utils/s3"
+	s3mocks "github.com/juandspy/insights-operator-utils/s3/mocks"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

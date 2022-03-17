@@ -30,9 +30,9 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/stretchr/testify/assert"
 
-	httputils "github.com/RedHatInsights/insights-operator-utils/http"
-	"github.com/RedHatInsights/insights-operator-utils/responses"
-	"github.com/RedHatInsights/insights-operator-utils/tests/helpers"
+	httputils "github.com/juandspy/insights-operator-utils/http"
+	"github.com/juandspy/insights-operator-utils/responses"
+	"github.com/juandspy/insights-operator-utils/tests/helpers"
 )
 
 const (

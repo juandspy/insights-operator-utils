@@ -21,7 +21,7 @@ import (
 
 	types "github.com/RedHatInsights/insights-results-types"
 
-	"github.com/RedHatInsights/insights-operator-utils/generators"
+	"github.com/juandspy/insights-operator-utils/generators"
 )
 
 const (

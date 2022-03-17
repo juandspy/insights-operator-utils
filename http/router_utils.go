@@ -31,7 +31,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/rs/zerolog/log"
 
-	"github.com/RedHatInsights/insights-operator-utils/types"
+	"github.com/juandspy/insights-operator-utils/types"
 )
 
 var (

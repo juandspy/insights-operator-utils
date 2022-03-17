@@ -26,7 +26,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/rs/zerolog/log"
 
-	"github.com/RedHatInsights/insights-operator-utils/metrics"
+	"github.com/juandspy/insights-operator-utils/metrics"
 )
 
 type loggingResponseWriter struct {

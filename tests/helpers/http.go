@@ -34,7 +34,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	gock "gopkg.in/h2non/gock.v1"
 
-	httputils "github.com/RedHatInsights/insights-operator-utils/http"
+	httputils "github.com/juandspy/insights-operator-utils/http"
 )
 
 // ServerInitializer is interface which is implemented for any server having Initialize method

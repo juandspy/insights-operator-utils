@@ -15,7 +15,7 @@
 package push_test
 
 import (
-	"github.com/RedHatInsights/insights-operator-utils/metrics/push"
+	"github.com/juandspy/insights-operator-utils/metrics/push"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

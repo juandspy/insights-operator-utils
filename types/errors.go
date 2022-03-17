@@ -25,7 +25,7 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/RedHatInsights/insights-operator-utils/responses"
+	"github.com/juandspy/insights-operator-utils/responses"
 )
 
 // responseDataError is used as the error message when the responses functions return an error

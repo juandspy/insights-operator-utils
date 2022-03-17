@@ -32,8 +32,8 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/stretchr/testify/assert"
 
-	httputils "github.com/RedHatInsights/insights-operator-utils/http"
-	"github.com/RedHatInsights/insights-operator-utils/tests/helpers"
+	httputils "github.com/juandspy/insights-operator-utils/http"
+	"github.com/juandspy/insights-operator-utils/tests/helpers"
 )
 
 const (

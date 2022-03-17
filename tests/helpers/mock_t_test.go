@@ -22,7 +22,7 @@ import (
 
 	"github.com/golang/mock/gomock"
 
-	"github.com/RedHatInsights/insights-operator-utils/tests/helpers"
+	"github.com/juandspy/insights-operator-utils/tests/helpers"
 )
 
 func TestMockT_WrappedMethods(t *testing.T) {

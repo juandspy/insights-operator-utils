@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/RedHatInsights/insights-operator-utils/metrics/push"
+	"github.com/juandspy/insights-operator-utils/metrics/push"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -22,13 +22,14 @@ package responses_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/RedHatInsights/insights-operator-utils/responses"
 	"io"
 	"net/http"
 	"net/http/httptest"
 	"reflect"
 	"strings"
 	"testing"
+
+	"github.com/juandspy/insights-operator-utils/responses"
 )
 
 // Define types used in table tests struct
