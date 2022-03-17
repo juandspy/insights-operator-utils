@@ -1,4 +1,4 @@
-module github.com/RedHatInsights/insights-operator-utils
+module github.com/juandspy/insights-operator-utils
 
 go 1.16
 
