@@ -29,13 +29,13 @@ import (
 	"strings"
 
 	"github.com/RedHatInsights/cloudwatch"
-	"github.com/RedHatInsights/kafka-zerolog/kafkazerolog"
 	"github.com/Shopify/sarama"
 	zlogsentry "github.com/archdx/zerolog-sentry"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
+	"github.com/juandspy/kafka-zerolog/kafkazerolog"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 )
